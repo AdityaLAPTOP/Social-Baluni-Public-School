@@ -1,0 +1,29 @@
+
+       h1{
+           color: blueviolet;
+       } 
+       *{
+           border:solid;
+       }
+       .header{
+        background-image: image("download.jpg");
+         display:flex;
+         justify-content: space-between;
+
+       }
+       .maingames{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap:wrap;
+       }
+       body{
+           background-image: image("download.jpg");
+       }
+       p,h2{
+           text-align: center;
+       }
+       .footer{
+           display: flex;
+           justify-content: end;
+       }
+    
